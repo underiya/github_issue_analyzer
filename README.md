@@ -206,7 +206,6 @@ The project includes:
 - ESLint for code linting
 - Prettier for code formatting
 - TypeScript for type safety
-- Husky pre-commit hooks (if configured)
 
 ## Configuration
 
